@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import json
 import os
 from datetime import datetime
@@ -65,3 +66,6 @@ class TaskManager:
     def get_completed_tasks(self) -> List[Dict]:
         """Get all completed tasks"""
         return [t for t in self.tasks if t['completed']]
+=======
+
+>>>>>>> 6016f1ed5b98e59f92aab31ec076f93a5d93cd69

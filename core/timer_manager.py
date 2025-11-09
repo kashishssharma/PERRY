@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 Pomodoro Timer Management System
 """
@@ -150,3 +151,6 @@ class TimerManager:
             'session_count': self.session_count,
             'completed_sessions': self.completed_sessions
         }
+=======
+
+>>>>>>> 6016f1ed5b98e59f92aab31ec076f93a5d93cd69

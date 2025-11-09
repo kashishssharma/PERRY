@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 Statistics and Progress Tracking System
 """
@@ -235,3 +236,6 @@ class StatisticsManager:
                 writer.writerow([date, minutes, ''])
         
         return filename
+=======
+
+>>>>>>> 6016f1ed5b98e59f92aab31ec076f93a5d93cd69

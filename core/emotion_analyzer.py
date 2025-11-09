@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 AI-Powered Emotion Analysis Engine
 """
@@ -164,3 +165,6 @@ You're in a great emotional state! Keep:
             return min(60, int(current_duration * 1.2))
         else:
             return current_duration
+=======
+
+>>>>>>> 6016f1ed5b98e59f92aab31ec076f93a5d93cd69
