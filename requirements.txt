@@ -1,0 +1,12 @@
+streamlit==1.28.0
+torch==2.0.1
+transformers==4.33.0
+pandas==2.0.3
+numpy==1.24.3
+plotly==5.17.0
+pillow==10.0.0
+requests==2.31.0
+matplotlib==3.7.2
+pydub==0.25.1
+pygame==2.5.2
+python-dotenv==1.0.0
