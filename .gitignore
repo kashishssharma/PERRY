@@ -1,0 +1,15 @@
+# ML / model files
+model.h5
+emotion_roberta_model/
+
+# Generated / runtime files
+*.pkl
+user_activity_log.csv
+temp_emotions_session_*
+__pycache__/
+output/
+user_data/
+
+# OS junk
+.DS_Store
+Thumbs.db

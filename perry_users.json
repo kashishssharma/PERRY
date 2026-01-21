@@ -1,0 +1,46 @@
+{
+    "ayanshjain2006@gmail.com": {
+        "name": "Ayansh Jain",
+        "email": "ayanshjain2006@gmail.com",
+        "phone": "9784114705",
+        "gender": "Male",
+        "dob": "2000-01-04",
+        "goal": "\ud83d\udcbc Work Productivity",
+        "password": "b9b43a509b489174a76521e33d2a3708a1ab8d72270db9297feb209739bd8cf9",
+        "created_at": "2025-11-17 13:04:59",
+        "last_login": "2025-11-18 22:54:50"
+    },
+    "vinyaaggarwal730@gmail.com": {
+        "name": "Vinya",
+        "email": "vinyaaggarwal730@gmail.com",
+        "phone": "9034113357",
+        "gender": "Female",
+        "dob": "2004-09-08",
+        "goal": "\ud83d\udcda Study & Academic Excellence",
+        "password": "2f326bf7f308bda1d35f79b83d561c773473f940075445e3cef80f86ad75b8a7",
+        "created_at": "2025-11-19 00:51:43",
+        "last_login": "2025-11-19 07:12:09"
+    },
+    "x7551226@gmail.com": {
+        "name": "Vinya",
+        "email": "x7551226@gmail.com",
+        "phone": "9034113357",
+        "gender": "Female",
+        "dob": "2000-01-01",
+        "goal": "\ud83d\udcbc Work Productivity",
+        "password": "9cec3064a0016d3b43b7e67561d210674e02c36d340720d7ea3d5cea2971e017",
+        "created_at": "2025-12-17 22:29:50",
+        "last_login": "2025-12-17 22:30:20"
+    },
+    "vinyaaggarwal53@gmail.com": {
+        "name": "Vinya",
+        "email": "vinyaaggarwal53@gmail.com",
+        "phone": "9034113333",
+        "gender": "Female",
+        "dob": "2004-09-08",
+        "goal": "\ud83d\udcda Study & Academic Excellence",
+        "password": "d334fc6474f871e327cd6330c3eb7da836ab7f18126921d8301257cc53f100a0",
+        "created_at": "2025-12-26 22:50:05",
+        "last_login": "2025-12-27 11:27:30"
+    }
+}
